@@ -1,0 +1,19 @@
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/bin/MyFirstApp.ap_ \
+ : /Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/drawable-hdpi/ic_launcher.png \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/drawable-mdpi/ic_launcher.png \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/drawable-xhdpi/ic_launcher.png \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/drawable-xxhdpi/ic_launcher.png \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/layout/activity_main.xml \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/menu/main.xml \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/values/dimens.xml \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/values/strings.xml \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/values/styles.xml \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/values-sw600dp/dimens.xml \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/values-sw720dp-land/dimens.xml \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/values-v11/styles.xml \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/res/values-v14/styles.xml \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/bin/res/drawable-hdpi/ic_launcher.png \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/bin/res/drawable-mdpi/ic_launcher.png \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/bin/res/drawable-xhdpi/ic_launcher.png \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/bin/res/drawable-xxhdpi/ic_launcher.png \
+/Users/kstone/code/android/adt-bundle-mac-x86_64-20131030/MyFirstApp/bin/AndroidManifest.xml \
