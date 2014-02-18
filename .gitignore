@@ -7,6 +7,10 @@
 *.ap_
 *.jar
 
+## Generated files ##
+bin/
+gen/
+
 # Java class files
 *.class
 
@@ -17,10 +21,6 @@
 .settings
 
 
-
-## Generated files ##
-bin/
-gen/
 
 ## Misc files I don't want to include ##
 ########################################
