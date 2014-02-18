@@ -2,14 +2,29 @@
 ###############
 /libs
 
-## Build files ##
-/bin/MyFirstApp.apk
-/bin/classes.dex
-/bin/classes/com/example/myfirstapp/R$style.class
-/bin/resources.ap_
-/gen/com/example/myfirstapp/R.java
+## Build Application Files
+*.apk
+*.ap_
+*.jar
 
+# Java class files
+*.class
+
+# Eclipse project files #
+.classpath
+.project
+.metadata
+.settings
+
+
+
+## Generated files ##
+bin/
+gen/
 
 ## Misc files I don't want to include ##
 ########################################
 proguard.txt
+
+# OSX files
+.DS_Store
